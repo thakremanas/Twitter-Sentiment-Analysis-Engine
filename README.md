@@ -5,3 +5,6 @@ Enter the username of your interest to see what kind of sentiments their tweet d
 
 Disclaimer: This engine is not built using any ntlk libraries and hence the code is entirely made up of custom written functions and built from scratch.
 I am using a json dictionary files which is static to map the tweets to the words in this dictionary. 
+
+### Link to the engine page : [Twitter Sentiment Analysis Engine](https://thakremanas.github.io/Twitter-Sentiment-Analysis-Engine/)
+
